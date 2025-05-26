@@ -1,3 +1,3 @@
 ## My Projects
 
-- [Mozart's Compositions Link Tree](./mozart.md)
+- [Mozart's Compositions Link Tree]({% link mozart.md %})
