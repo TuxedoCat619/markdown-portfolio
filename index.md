@@ -1,22 +1,10 @@
 ---
 layout: default
+title: Hello World
 ---
 
-{% include 00-bio.md %}
+# Hello World!
 
-<br>
+This is the main page.
 
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 04-projects.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+[Go to Test Page](./test.md)
