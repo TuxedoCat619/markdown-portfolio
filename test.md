@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Test Page
+title: Test Page Main
 ---
 
-## Test Page
+## Test Page from main branch
 
-This is the test page. If you can see this, the basic site is working.
+This is the test page. If you can see this, the basic site from main is working.

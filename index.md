@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hello World
+title: Hello World Main
 ---
 
-# Hello World!
+# Hello World from main branch!
 
 This is the main page.
 
