@@ -8,4 +8,4 @@ title: Hello World Main
 This is the main page.
 
 [Go to Test Page](./test.md)
-[Go to Custom HTML Page](./custom.html)
+[Go to Custom Page (Markdown)](./custom-page.md)
